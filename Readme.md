@@ -120,7 +120,7 @@ customer-churn-project/
   * Payment Method
 
 
-[![Dashboard](dashboard.png)](dashboard.png)
+[![Dashboard](dashboard/dashboard.png)](dashboard/dashboard.png)
 
 
 --- 
