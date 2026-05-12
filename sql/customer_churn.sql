@@ -135,3 +135,5 @@ SELECT
 	 END AS predicted_status
  FROM 
     fact_churn;
+    
+    select * from fact_churn where churn=1;
