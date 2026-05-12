@@ -119,7 +119,12 @@ customer-churn-project/
   * Internet Service
   * Payment Method
 
----
+
+[![Dashboard](dashboard/dashboard.png)](dashboard/dashboard.png)
+
+
+--- 
+
 
 ## 🔍 Key Insights
 
